@@ -14,7 +14,7 @@
   - **[Quick Sort](#Quick-Sort)**
 - **[Concepts](#Concepts)**
   - **[Bit Manipulation](#Bit-Manipulation)**
-  - **[Memory (Stack vs. Heap)](#Memory-(Stack-vs-Heap))**
+  - **[Memory (Stack vs. Heap)](#Memory-Stack-vs-Heap)**
   - **[Recursion](#Recursion)**
   - **[Dynamic Programming](#Dynamic-Programming)**
   - **[Big O Time & Space](#Big-O-Time--Space)**
