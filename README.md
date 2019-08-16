@@ -1,10 +1,10 @@
 # DataStructuresAndAlgorithms
 - **[Data Structures](#Data-Structures)**
   - **[Linked lists](#Linked-Lists)**
-  - **[Trees, Tries, & Graphs](#Trees,-Tries,-&-Graphs)**
-  - **[Stacks & Queues](#Stacks-&-Queues)**
+  - **[Trees, Tries, & Graphs](#Trees-Tries--Graphs)**
+  - **[Stacks & Queues](#Stacks--Queues)**
   - **[Heaps](#Heaps)**
-  - **[Vectors/Array Lists](#Vectors/Array-Lists)**
+  - **[Vectors/Array Lists](#VectorsArray-Lists)**
   - **[Hash Tables](#Hash-Tables)**
 - **[Algorithms](#Algorithms)**
   - **[Breadth-First Search](#Breadth-First-Search)**
@@ -14,10 +14,10 @@
   - **[Quick Sort](#Quick-Sort)**
 - **[Concepts](#Concepts)**
   - **[Bit Manipulation](#Bit-Manipulation)**
-  - **[Memory (Stack vs. Heap)](#Memory-(Stack-vs.-Heap))**
+  - **[Memory (Stack vs. Heap)](#Memory-(Stack-vs-Heap))**
   - **[Recursion](#Recursion)**
   - **[Dynamic Programming](#Dynamic-Programming)**
-  - **[Big O Time & Space](#Big-O-Time-&-Space)**
+  - **[Big O Time & Space](#Big-O-Time--Space)**
 
 ---
 ## Data Structures:
