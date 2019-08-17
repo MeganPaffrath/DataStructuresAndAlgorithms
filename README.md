@@ -1,29 +1,27 @@
 # DataStructuresAndAlgorithms
 
-- **[Items to Include](#Items-To-Include)**
 - **[Data Structures And Algorithms](#Data-Structures-And-Algorithms)**
-- **[Data Structures](#Data-Structures)** nothing yet
-  - **[Linked lists](#Linked-Lists)** nothing yet
-  - **[Trees, Tries, & Graphs](#Trees-Tries--Graphs)** nothing yet
-  - **[Stacks & Queues](#Stacks--Queues)** nothing yet
-  - **[Heaps](#Heaps)** nothing yet
-  - **[Vectors/Array Lists](#VectorsArray-Lists)** nothing yet
-  - **[Hash Tables](#Hash-Tables)** nothing yet
-- **[Algorithms](#Algorithms)** nothing yet
-  - **[Breadth-First Search](#Breadth-First-Search)** nothing yet
-  - **[Depth-First Search](#Depth-First-Search)** nothing yet
-  - **[Binary Search](#Binary-Search)** nothing yet
-  - **[Merge Sort](#Merge-Sort)** nothing yet
-  - **[Quick Sort](#Quick-Sort)** nothing yet
-- **[Concepts](#Concepts)** nothing yet
-  - **[Bit Manipulation](#Bit-Manipulation)** nothing yet
-  - **[Memory (Stack vs. Heap)](#Memory-Stack-vs-Heap )** nothing yet
-  - **[Recursion](#Recursion)** nothing yet
-  - **[Dynamic Programming](#Dynamic-Programming)** nothing yet
-  - **[Big O Time & Space](#Big-O-Time--Space)** nothing yet
----
+- **[Data Structures](#Data-Structures)**
+  <!-- - **[Linked lists](#Linked-Lists)** nothing yet -->
+  <!-- - **[Trees, Tries, & Graphs](#Trees-Tries--Graphs)** nothing yet -->
+  <!-- - **[Stacks & Queues](#Stacks--Queues)** nothing yet -->
+  <!-- - **[Heaps](#Heaps)** nothing yet -->
+  <!-- - **[Vectors/Array Lists](#VectorsArray-Lists)** nothing yet -->
+  <!-- - **[Hash Tables](#Hash-Tables)** nothing yet -->
+<!-- - **[Algorithms](#Algorithms)** nothing yet -->
+  <!-- - **[Breadth-First Search](#Breadth-First-Search)** nothing yet -->
+  <!-- - **[Depth-First Search](#Depth-First-Search)** nothing yet -->
+  <!-- - **[Binary Search](#Binary-Search)** nothing yet -->
+  <!-- - **[Merge Sort](#Merge-Sort)** nothing yet -->
+  <!-- - **[Quick Sort](#Quick-Sort)** nothing yet -->
+<!-- - **[Concepts](#Concepts)** nothing yet -->
+  <!-- - **[Bit Manipulation](#Bit-Manipulation)** nothing yet -->
+  <!-- - **[Memory (Stack vs. Heap)](#Memory-Stack-vs-Heap )** nothing yet -->
+  <!-- - **[Recursion](#Recursion)** nothing yet -->
+  <!-- - **[Dynamic Programming](#Dynamic-Programming)** nothing yet -->
+  <!-- - **[Big O Time & Space](#Big-O-Time--Space)** nothing yet -->
 
-## Items To Include
+<!-- ## Items To Include
 - Data Structures
   - Linked lists, Trees, Tries, & Graphs, Stacks & Queues, Heaps, Vectors / Array Lists, Hash Tables
 - Algorithms
@@ -31,12 +29,19 @@
 - Concepts
   - Bit Manipulation, Memory (Stack vs. Heap), Recursion, Dynamic Programming, Big O Time & Space
 - All Items (Bold = Done)
-  - 2-3-4 tree, array, binary tree, graphs, heap, hash table, linked list, ordered array, priority queues, red-black tree, stacks, queues, weighted graphs
+  - 2-3-4 tree, array, binary tree, graphs, heap, hash table, linked list, ordered array, priority queues, red-black tree, stacks, queues, weighted graphs -->
 ---
 ## Data Structures And Algorithms
 - A **Data Structure** is an arrangement of data. It is a special way of organizing, managing, storing, processing, and retrieving data.
 - An **Algorithm** is used to manipulate data in these structures
   - Examples: searching through data and sorting data
+
+---
+## Data Structures:
+- Data Structures include:
+  - Linked lists, Trees, Tries, & Graphs, Stacks & Queues, Heaps, Vectors / Array Lists, Hash Tables
+- ADTs (Abstract Data Types):
+  - Stack, Queue, Linked List, Binary Tree, Red-Black Tree, 2-3-4 Tree, Hash Table, Heap, Graph
 
 | Data Structure | Advantage | Disadvantage |
 | --- | --- | --- |
@@ -54,31 +59,32 @@
 
 
 
----
-## Data Structures:
-  - Linked lists, Trees, Tries, & Graphs, Stacks & Queues, Heaps, Vectors / Array Lists, Hash Tables
-  ### Linked Lists
-  ### Trees, Tries, & Graphs
-  ### Stacks & Queues
-  ### Heaps  
-  ### Vectors/Array Lists
-  ### Hash Tables
+<!-- ### Linked Lists -->
+<!-- ### Trees, Tries, & Graphs -->
+<!-- ### Stacks & Queues -->
+<!-- ### Heaps   -->
+<!-- ### Vectors/Array Lists -->
+<!-- ### Hash Tables -->
 
 ---
 ## Algorithms
+- Algorithms include:
   - Breadth-First Search, Depth-First Search, Binary Search, Merge Sort, Quick Sort
-  ### Breadth-First Search
-  ### Depth-First Search
-  ### Binary Search
-  ### Merge Sort
-  ### Quick Sort
+
+<!-- ### Breadth-First Search -->
+<!-- ### Depth-First Search -->
+<!-- ### Binary Search -->
+<!-- ### Merge Sort -->
+<!-- ### Quick Sort -->
 
 ---
 ## Concepts
+- Concepts include:
   - Bit Manipulation, Memory (Stack vs. Heap), Recursion, Dynamic Programming, Big O Time & Space
-  ### Bit Manipulation
-  ### Memory (Stack vs. Heap)
-  ### Recursion
-  ### Dynamic Programming
-  ### Big O Time & Space
+
+<!-- ### Bit Manipulation -->
+<!-- ### Memory (Stack vs. Heap) -->
+<!-- ### Recursion -->
+<!-- ### Dynamic Programming -->
+<!-- ### Big O Time & Space -->
 ---
