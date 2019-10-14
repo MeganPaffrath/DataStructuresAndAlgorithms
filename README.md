@@ -2,6 +2,13 @@
 
 - **[Data Structures And Algorithms](#Data-Structures-And-Algorithms)**
 - **[Data Structures](#Data-Structures)**
+  - **[Lists, Stacks and Queues](#Lists-Stacks--Queues)**
+  - **[Hash Tables](#Hash-Tables)**
+  - **[Trees](#Trees)**
+  - **[Balanced Trees](#Balanced-Trees)**
+  - **[Heaps and Treaps](#Heaps-and-Treaps)**
+  - **[Graphs](#Graphs)**
+
   <!-- - **[Linked lists](#Linked-Lists)** nothing yet -->
   <!-- - **[Trees, Tries, & Graphs](#Trees-Tries--Graphs)** nothing yet -->
   <!-- - **[Stacks & Queues](#Stacks--Queues)** nothing yet -->
@@ -34,12 +41,30 @@
 ## Data Structures And Algorithms
 - A **Data Structure** is an arrangement of data. It is a special way of organizing, managing, storing, processing, and retrieving data.
 - An **Algorithm** is used to manipulate data in these structures
+  - A sequence of steps used to solve a problem / do a calculation
   - Examples: searching through data and sorting data
 
 ---
 ## Data Structures:
 - Data Structures include:
-  - Linked lists, Trees, Tries, & Graphs, Stacks & Queues, Heaps, Vectors / Array Lists, Hash Tables
+  - **Record**: DS that stores subitems with names associated to each subitem
+  - **Array**: Stores ordered list of items, each item directly accessible by an index
+  - **Linked List**: Stores ordered list of items in nodes. Each node stores data with a pointer to the next node.
+    - **Doubly Linked List**: Nodes have pointers to next and previous nodes.
+  - **Trees**:
+    - **Binary Tree**: Each node stores data and has 2 children. (Left child and right child)
+  - **Hash Table**: Stores unordered items by mapping (or hashing) each item into a location in an array
+  - **Heaps**:
+      - **Max-heap**: Tree in which a node's key is >= the keys of the node's children
+    -  **Min-heap**: Tree in which the node's key is <= the keys of the node's children
+  - **Graph**: Represents connections among items, consists of vertices and edges
+    - **Vertex**: An item in a graph
+    - **Edge**: A connection between 2 vertices
+  - **Tries**:
+  - **Stack**:
+  - **Queue**:
+  - **Vectors**:
+  - **Hash Tables**:
 - ADTs (Abstract Data Types):
   - Stack, Queue, Linked List, Binary Tree, Red-Black Tree, 2-3-4 Tree, Hash Table, Heap, Graph
 
@@ -59,17 +84,36 @@
 
 
 
-<!-- ### Linked Lists -->
+### Lists, Stacks, & Queues
+
+- Unsorted Linked Lists
+- Sorted Linked Lists
 <!-- ### Trees, Tries, & Graphs -->
 <!-- ### Stacks & Queues -->
 <!-- ### Heaps   -->
 <!-- ### Vectors/Array Lists -->
-<!-- ### Hash Tables -->
+
+
+<!-- v MIDTERM 2 -->
+### Hash Tables
+- **Hash Table**: Sorts unordered items by mapping or hashing each item to a location in an array (or vector)
+- **Big-O**:
+  - insertion/removal or item: O(1)
+  - More efficient than searching a list [O(N) or O(logN) for binary]
+- **Key** - value used to map to an index
+- **Bucket** - Each hash table array element
+- A hash function computes a bucket index from the item's key
+### Trees
+### Balanced Trees
+### Heaps and Treaps
+### Graphs
+<!-- ^ MIDTERM 2 -->
+
 
 ---
-## Algorithms
+<!-- ### Algorithms
 - Algorithms include:
-  - Breadth-First Search, Depth-First Search, Binary Search, Merge Sort, Quick Sort
+  - Breadth-First Search, Depth-First Search, Binary Search, Merge Sort, Quick Sort -->
 
 <!-- ### Breadth-First Search -->
 <!-- ### Depth-First Search -->
@@ -78,9 +122,9 @@
 <!-- ### Quick Sort -->
 
 ---
-## Concepts
+<!-- ## Concepts
 - Concepts include:
-  - Bit Manipulation, Memory (Stack vs. Heap), Recursion, Dynamic Programming, Big O Time & Space
+  - Bit Manipulation, Memory (Stack vs. Heap), Recursion, Dynamic Programming, Big O Time & Space -->
 
 <!-- ### Bit Manipulation -->
 <!-- ### Memory (Stack vs. Heap) -->
