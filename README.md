@@ -1,5 +1,12 @@
 # DataStructuresAndAlgorithms
 
+
+## Outline
+
+- [Graphs](Graphs/GRAPHS.md)
+
+---
+
 - **[Data Structures And Algorithms](#Data-Structures-And-Algorithms)**
 - **[Data Structures](#Data-Structures)**
   - **[Lists, Stacks and Queues](#Lists-Stacks--Queues)**
@@ -8,6 +15,25 @@
   - **[Balanced Trees](#Balanced-Trees)**
   - **[Heaps and Treaps](#Heaps-and-Treaps)**
   - **[Graphs](#Graphs)**
+
+
+  <!--
+  Things to Include:
+  1. Intro to DS
+  2. Searching and Algorithm analysis
+  3. sorting
+  4. Lists, stacks, Queues
+  5. Hash Tables
+  6. trees
+  7. Balanced Trees
+  8. Heaps and Treaps
+  9. graphs
+  10. algorithms
+  11. B-Trees
+  12. Represents
+  13. Additional Materials
+
+  -->
 
   <!-- - **[Linked lists](#Linked-Lists)** nothing yet -->
   <!-- - **[Trees, Tries, & Graphs](#Trees-Tries--Graphs)** nothing yet -->
